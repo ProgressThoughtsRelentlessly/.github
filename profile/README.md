@@ -20,4 +20,4 @@ The goal of the application is to provide e-space for individuals, teams, busine
 - You can also search for any title | author | domains | or simply anything, if related posts exist in our catalog we will display most accurate search result for you.
   
 ### High level architecture and diagram
-![high level architecture](./assets/pthore-high-level-architecture.png)
+![high level architecture](https://github.com/ProgressThoughtsRelentlessly/.github/blob/main/profile/assets/pthore-high-level-architecture.png)
